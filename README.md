@@ -46,15 +46,6 @@ El notebook descarga/carga modelos desde Hugging Face durante la ejecucion:
 - `sentence-transformers/all-MiniLM-L6-v2`: generacion de embeddings.
 - `distilbert-base-uncased-finetuned-sst-2-english`: analisis de sentimiento con `transformers.pipeline`.
 
-## Datos esperados
+## Link a github
 
-El notebook lee el dataset:
-
-```text
-data/trustpilot-reviews-123k.csv
-```
-
-Tambien genera o utiliza archivos auxiliares en `data/`, como:
-
-- `clusters_reviews.txt`
-- `topics_reviews_competencia.txt`
+https://github.com/OscarFdz24/Proyecto_DeepLearning_NLP_Oscar_Fernandez
