@@ -1,16 +1,12 @@
 
-===== TOPIC -1 | REVIEWS 34 =====
-[sentiment=NEGATIVE | stars=5]
-Title: Our  washing machine 
-- Our  washing machine broke down two days before Christmas. We did a price check from a number of suppliers for a new machine. Sonic was the most attractive. Ordered on line. The sales manager contacted me to confirm the order and informed me that I would receive a e mail that evening to inform us what time it would be delivered and in stalled the following day. The driver rang 30 mins before the scheduled time. Arrived installed and up and running within 24 hours from ordering. Brilliant service.
+===== TOPIC -1 | REVIEWS 42 =====
+[sentiment=POSITIVE | stars=5]
+Title: Very efficient 
+- Easy to order, very quick delivery time even over the Christmas period. Delivered within the 3 hour time slot given and I was called 40minutes before to confirm when delivery would be.   Brought into the kitchen, unpacked and all packaging removed in a very timely and efficient manner. Would recommend 
 
 [sentiment=NEGATIVE | stars=5]
 Title: Well informed sales person, resulted in our purchasing a 'variation' to what we expected to buy. 
 - The sales person was well informed, however, a question to which the answer wasn't immediately available was researched through the excellent in store system to give the accurate response,  rather than the all too often, 'I think'.It was also amusing to be led through the first aisle of the tvs to the pay station...my wife had deliberately led me straight to the vacuums, studiously avoiding any contact with tvs! I appreciated being able to  browse them 'legitimately'
-
-[sentiment=POSITIVE | stars=5]
-Title: Excellent delivery crew!!
-- Delivery guys Sangdeep & Zulfi did an outstanding job of getting new cooker through tiny hallway and into house.Very helpful & friendly![Cooker also cheaper than AO!]
 
 [sentiment=NEGATIVE | stars=5]
 Title: Lots of choice online and although i…
@@ -19,6 +15,10 @@ Title: Lots of choice online and although i…
 [sentiment=POSITIVE | stars=5]
 Title: Helpful service
 - With my originally-ordered microwave being unavailable  due to high demand, Alan rang me and within minutes had arranged a suitable alternative with rapid delivery.  Good value too.
+
+[sentiment=POSITIVE | stars=5]
+Title: Excellent service 
+- Absolutely fantastic service.The whole experience was positive from placing my order to delivery all staff were professional friendly and very helpful. The delivery team were fantastic helpful and professional so special thanks to Ahsan and Hamad Very happy with my purchase and I will go to this company FIRST to purchase goods in the future 
 
 [sentiment=POSITIVE | stars=5]
 Title: 28/12/24
@@ -36,6 +36,10 @@ Title: Chest freezer
 Title: Love my new range cooker and cooker…
 - Love my new range cooker and cooker hood. The delivery people didn't manage to get it into my kitchen which would have been helpful. 
 
+[sentiment=NEGATIVE | stars=4]
+Title: Delivery was not smooth
+- Delivery was extremely quick. My only gripe was in the delivery information I explained my mother has mobility issues and may not get to the door quickly. The driver didn't wait and left it with a neighbour, with no note, leaving my mother thinking the parcel had been returned and adding to her anxiety. 
+
 [sentiment=POSITIVE | stars=4]
 Title: Order process was easy to use and…
 - Order process was easy to use and follow. Slight problem with stock from manufacturer but was kept up to date with the issues. Received a call when item was supplied by manufacturer and it was delivered the following day. Overall a great experience from Sonic Direct.
@@ -45,12 +49,12 @@ Title: Very quick response…positive experience
 - Very quick response to my order for a small fridge freezer. Delivery guys fine although hadn’t read where to enter my property. So far, I’m pleased with my Haden purchase although it’s not as roomy as my old LEC fridge freezer but choice was extremely limited. Thank you Sonic Direct for stocking these smaller ones.
 
 [sentiment=NEGATIVE | stars=4]
-Title: The two men that delivered th…
-- The two men that delivered th television were pleasant and quick, however despite telling me they did this all the time they were unable to connect my wi fi.  They didn't realise that the password used upper casing  as opposed to the lower that they were trying.
-
-[sentiment=NEGATIVE | stars=4]
 Title: Delivery of my Montpellier combi microwave oven
 - Your service was very good and speedy.HOWEVER ...!The delivery company that you used left a lot to be desired......They did deliver on the correct date HOWEVER they delivered to the Wrong Address and had the Gall to say that it had been delivered to me.I suggest that you contact this company and get them to change their practices as it is very fortunate that we didn't lose our Appliance resulting in a NO DELIVERY CLAIM If you require proof I have the APC delivery email I can send you Thankyou Tony Covachich 
+
+[sentiment=NEGATIVE | stars=3]
+Title: Good product no so good service 
+- Experience not so good. person who served me was a bit abrupt when I could get to speak to somebody that is.spent more time looking around than taking notice of me the customer and realised it would have been easier and quicker going down and ordering than doing it online which seemed more trouble than it was worth you would think ordering online would be easier but it isn't apart from that product was fine except trying to get the sticker off the screen it took a while getting the residue off but happy with it anyway ..
 
 [sentiment=NEGATIVE | stars=3]
 Title: Quick delivery, shame the box was damaged
@@ -77,12 +81,16 @@ Title: How your pricing changes with different…
 - How your pricing changes with different customers. Your driver took my freezer up 4 steps but not down 4 steps into my cellar. 
 
 [sentiment=NEGATIVE | stars=3]
-Title: Not good enough
-- Excellent service on the purchase of a new integrated washing machine but the delivery guys let them down. They kept telling me that they couldn't do this or that they couldn't do that and then left me with a leaking conection for me to sort out. Got the feeling that all they wanted to do was get out of the place as quickly as possible, nothing positive to say about them, think a bit, no, a lot of retraining required, doubt I'll go back to Sonic again after this experience.
-
-[sentiment=NEGATIVE | stars=3]
 Title: Would have given 5 stars arrogant woman at customer sales desk 
 - Would have given 5 stars But for the Arrogant Rude middle age woman employed on the customer service counter Another customer has complained about her on this review siteAnd I met her and now understand No customer service Skills whatsoever I stood at the customer service counter till she deigned to acknowledge meAnd she spoke to me as if I was a nuisance to be delt withTheir Prices are not cheaper than any other online electronics retailer So next time I will use one of their competitors 
+
+[sentiment=NEGATIVE | stars=3]
+Title: Delivery due Friday
+- Problem ordering online - guy on the phone not too helpful - his advice - try again!Delivery due Friday. By agreement with APC it was promised for Saturday. Sunday evening no parcel.The tracking programme did not work at all.APC have let your company down badly.
+
+[sentiment=NEGATIVE | stars=3]
+Title: 🤔Funny how the price on my Sony65”Oled…
+- 🤔Funny how the price on my Sony65”Oled tv I purchased last week was not negotiable at£2100, but this week reduced to £2000?🤔
 
 [sentiment=NEGATIVE | stars=2]
 Title: The checkout process was very…
@@ -93,8 +101,16 @@ Title: Disappointed on this occasion.
 - Poor delivery commitments.1st delivery as agreed at point of sale - were contacted evening before and informed the fridge/freezer unit could not be delivered as it was not available.2nd delivery 2 days later - the unit was delivered with damaged.3rd attempt - early morning delivery was aborted as told the delivery van had broken down.Had to wait in all day to be available as it was not known until late afternoon when the unit would be delivered. Bought 28/09 - initial delivery was booked 30/09- final resolution 03/10 early evening.The two delivery people were very good & took great care to ensure everything was as expected. The salesman was well informed about the product. Have received excellent service for all previous purchases & was the reason returned to Sonic for this purchase.
 
 [sentiment=NEGATIVE | stars=2]
+Title: Wouldn't recommend for after sales…
+- Wouldn't recommend for after sales service. No one bothers getting back to you if you need help. Don't be tempted by the "cheaper" prices. Save yourself the trouble and go to Currys instead.
+
+[sentiment=NEGATIVE | stars=2]
 Title: Two many chatting amongst themselves…
 - Two many chatting amongst themselves not paying attention to customer's. Eventually attracted attention told them what I wanted but was told this other one was better. It would be at £100 more than my budget. Sorry I don't like being pressured into something  I couldn't afford. The product I bought was fine but Sorry I will not be using  you again.
+
+[sentiment=NEGATIVE | stars=2]
+Title: A lacklustre experience
+- A lacklustre experience, purchased 2 items at £800 in total approx. Many of the items I wanted were not in stock and there is limited high brand items but lots of cheap alternatives. I paid extra to get the fridge doors swapped to right handed opening but it wasn't explained that they don't actually put the handles on so bear that in mind. Delivery was an experience with the delivery drivers arriving late approx an hour after their commited time slot, then pulling the light off the ceiling, scratching the wall and damaging the door frame. They took my fridge away for recycling at a cost. I also contacted them to ask where the user guide was but no response. Wouldn't shop here again personally. 
 
 [sentiment=NEGATIVE | stars=2]
 Title: Don’t be in a hurry to take delivery
@@ -105,12 +121,20 @@ Title: Check stock before ordering.
 - Second time I’ve ordered an appliance online. Both times I’ve been contacted saying the item isn’t in stock but there’s an alternative. Not the end of the world but frustrating when I’ve spent time choosing one in the first place. 
 
 [sentiment=NEGATIVE | stars=2]
+Title: It's leaking,  not resolved
+- It's leaking , just bought few days ago but it's leaking...no it's not resolved,they told me I have only 28 days policy, i called on 29th day,they give me manufacture company number. I am so disappointed 😞
+
+[sentiment=NEGATIVE | stars=2]
 Title: Ok unless u need to return item
 - Unfortunately the window cleaner product I received was a used / returned item. The security seal was broken and it looked like it had been used . Customer services were polite over phone & asked me to email photo proof of this. Wanted to return for refund but their email reply advised that they couldn’t email a return label they can only do a collection . So I have to wait in all day for a collection as I can’t leave parcel out for company to collect. With school runs & a special needs child there’s no way I can. You would think in this day & age they would b able to email me a label or send a QR code Crazy . Won’t be using this company again
 
 [sentiment=NEGATIVE | stars=1]
-Title: Worst washing machine I've ever owned
-- Worst washing machine I've ever owned. It only has one job to do and I could do better in a bucket. 
+Title: Item not yet delivered
+- As of 0001 hrs Friday 20/12/2024, the item had not been delivered by Parcel Force. It appears that the parcel was not properly addressed. Though this has been 'rectified' by completion of Redirection, the parcel was NOT delivered by the promised time of 1800 hrs Thursday 19/12/2024.
+
+[sentiment=NEGATIVE | stars=1]
+Title: can't be trusted with departure times
+- can't be trusted with departure times 
 
 [sentiment=NEGATIVE | stars=1]
 Title: They didn’t told me that I have to pay…
@@ -120,13 +144,17 @@ Title: They didn’t told me that I have to pay…
 Title: The reason why I gave these much is…
 - The reason why I gave these much is because the prices instore vs online are different as I went to purchase something and was more expensive instore. They also said that they were going to charge an extra £20 for delivery even though the delivery charge was for free. 
 
+[sentiment=POSITIVE | stars=1]
+Title: not good service
+- i so lg washing Machin and sonic website said they will match or beat any price but when i called i said Lg selling it cheaper they replay go and get it from Lg .  Replay to your reply I did ask for manager he said he is manager   i did say I will leave feedback he said that is fine?
+
 [sentiment=NEGATIVE | stars=1]
 Title: Poor experience 
 - Ordered item the previous day, given a code. Visited the store, items were not displayed (potentially a H&S risk) and spoke to a colleague. Wasn't shown the item as it looks similar to another one. Paid and waited for up to 30 mins - to be then told has noone told you, we can't find it. Perhaps a blessing in disguise, will purchase the item elsewhere. Poor display standards, not efficient service. Experience was below par. Having work in electrical retail in 20 years - poor experience. I wouldn't return as plenty alternative options to purchase from, even if it means spending a little bit more 
 
 [sentiment=NEGATIVE | stars=1]
-Title: Not impressed ordered a new ceramic hob…
-- Not impressed ordered a new ceramic hob for delivery on Friday the 13th September heard nothing so made a phone call to be told I would not be getting it until Monday 16th Sept . Very poor communication from the store. And I was recommended to use the store from Which magazine i will let them know the are not reliable and I have had to cancel the electrician because of their failure.I await their delivery on Mon 
+Title: Good prices but...
+- Good prices, but should definately have on the website they don't take the machines up stairs so I could have known before I ordered. Just moved from over seas, so I don't have friends or anyone to help me take it up my stairs so I just wasted money.Also the delivery people claim they don't have Insurance that's why they don't take it up stairs which should not be done as it's illegal as far as I know.Even my lanlord was shocked as other companies do this service.
 
 [sentiment=NEGATIVE | stars=1]
 Title: Refused to deliver item despite being…
@@ -136,35 +164,19 @@ Title: Refused to deliver item despite being…
 Title: No Price Match
 - They state they will price match; but actually price match does not exist in their vocabulary. The answer was we are giving you free delivery even their competitor was offering free delivery. Also some appliances are cheaper on their website and some are cheaper in store. So do your research before buying from these guys
 
+[sentiment=NEGATIVE | stars=1]
+Title: Worst customer service I’ve ever…
+- Worst customer service I’ve ever received. Driver was 3 hours later than agreed time. Made me feel intimidated and scared so made them leave my home. Made a complaint and didn’t even get so much as an apology in the reply. Almost called police to remove delivery driver from my homeUPDATE:Reply from sonic straight after a poor review saying they’ll look into this and as a total shock…. Nothing. Never dealt with such an incompetent company.
 
-===== TOPIC 0 | REVIEWS 45 =====
-[sentiment=POSITIVE | stars=5]
-Title: Really impressed
-- Really impressed, ordered on 27th Dec,wasn't expecting anything til new year, had call later that day to confirm details, item delivered the next day. The delivery guys, Sandeep & Zulfi were friendly and helpful, got the feeling that nothing would be too much trouble for them. Would I use again? Almost without hesitation, would I recommend? Definitely. Great service all round also really good prices 👍
 
-[sentiment=POSITIVE | stars=5]
-Title: Very efficient 
-- Easy to order, very quick delivery time even over the Christmas period. Delivered within the 3 hour time slot given and I was called 40minutes before to confirm when delivery would be.   Brought into the kitchen, unpacked and all packaging removed in a very timely and efficient manner. Would recommend 
-
-[sentiment=POSITIVE | stars=5]
-Title: A very good experience
-- From the moment I looked on the website at the extensive choice there I knew I would find what I was looking for - and I did.  Plenty of information about the products to help making a purchase and I was so pleased with the delivery date which was much quicker than I expected being over Christmas/New Year. The delivery men were extremely courteous and approachable and explained everything that I needed to know.  They put the appliance in position and took away all the packaging, leaving me with a lovely new fridge-freezer.  The delivery window was excellent and they were on time.  A very good experience.  The guys that delivered so well were Jas and Aasim.  Thank you.
+===== TOPIC 0 | REVIEWS 31 =====
+[sentiment=NEGATIVE | stars=5]
+Title: Our  washing machine 
+- Our  washing machine broke down two days before Christmas. We did a price check from a number of suppliers for a new machine. Sonic was the most attractive. Ordered on line. The sales manager contacted me to confirm the order and informed me that I would receive a e mail that evening to inform us what time it would be delivered and in stalled the following day. The driver rang 30 mins before the scheduled time. Arrived installed and up and running within 24 hours from ordering. Brilliant service.
 
 [sentiment=POSITIVE | stars=5]
 Title: First time using this company won’t be the last time. Will be referring to friends and family 
 - First time using this company. Won’t be last time. This is my go to place for appliance now. Top quality customer service from start to finish. Ordered an American fridge freezer.  after ordering got a call asking us to check our measurements for doors and gates for access for delivery. Next day delivery by two of the best delivery guys who couldn’t do enough to help and take care. Sandeep and zulfi made sure that they got the massive fridge freezer through an ally way and up some steps and into our kitchen all while treating the delivery which the up most care and precision. Will be recommending to family and friends to use this company 
-
-[sentiment=POSITIVE | stars=5]
-Title: Excellent service 
-- Absolutely fantastic service.The whole experience was positive from placing my order to delivery all staff were professional friendly and very helpful. The delivery team were fantastic helpful and professional so special thanks to Ahsan and Hamad Very happy with my purchase and I will go to this company FIRST to purchase goods in the future 
-
-[sentiment=POSITIVE | stars=5]
-Title: Kept in regular touch regarding…
-- Kept in regular touch regarding delivery and by whom. No damage to product through delivery process and it works as described.
-
-[sentiment=POSITIVE | stars=5]
-Title: Lovely guy who asked if i needed help…
-- Lovely guy who asked if i needed help as soon as we got in the store . Showed us a good range and made our purchase very easy even with my mobility issues delivery was cheap and fast .
 
 [sentiment=NEGATIVE | stars=4]
 Title: I had problems, but they were all resolved.
@@ -183,20 +195,12 @@ Title: Washer Dryer Delivery
 - All good even despite the delayed arrival, the 2 guys who installed the washer dryer (Maciej & Tom) did a great job
 
 [sentiment=NEGATIVE | stars=4]
-Title: 50" TV
-- Very happy with the TV I have recently purchased. A member of staff was so helpful in explaining which TV would suit my needs as they all looked the same to me and I would probably have picked a much more expensive one. I would recommend this store if you want a good quality TV at a great price.
-
-[sentiment=NEGATIVE | stars=4]
 Title: Ok but make sure your not in a rush.
 - All went well until you get to the point of pickup of goods. Warehouse staff very slow even when no backlog of customers. Your left waiting in a cold dirty waiting area. Happened twice now so not an isolated case. 
 
 [sentiment=NEGATIVE | stars=4]
-Title: Delivery was not smooth
-- Delivery was extremely quick. My only gripe was in the delivery information I explained my mother has mobility issues and may not get to the door quickly. The driver didn't wait and left it with a neighbour, with no note, leaving my mother thinking the parcel had been returned and adding to her anxiety. 
-
-[sentiment=NEGATIVE | stars=3]
-Title: Good product no so good service 
-- Experience not so good. person who served me was a bit abrupt when I could get to speak to somebody that is.spent more time looking around than taking notice of me the customer and realised it would have been easier and quicker going down and ordering than doing it online which seemed more trouble than it was worth you would think ordering online would be easier but it isn't apart from that product was fine except trying to get the sticker off the screen it took a while getting the residue off but happy with it anyway ..
+Title: The two men that delivered th…
+- The two men that delivered th television were pleasant and quick, however despite telling me they did this all the time they were unable to connect my wi fi.  They didn't realise that the password used upper casing  as opposed to the lower that they were trying.
 
 [sentiment=NEGATIVE | stars=3]
 Title: Service with a moan 
@@ -207,12 +211,12 @@ Title: Received goods & happy with them.
 - Received goods & happy with them.Can't say the same for the Online chat. Contacted them as had text to say delivery attempted, I was in, no one came here. The response I got was 'I don't know why you are complaining to me, I haven't done anything wrong' followed by 'we can't help, it's down to the delivery company' .No, my contact is with you, you should be chasing the couriers, not me. 1st time customer and probably the last with that attitude
 
 [sentiment=NEGATIVE | stars=3]
-Title: No problem with the purchase experience…
-- No problem with the purchase experience but the delivery and instalation guys let them down.All they did was moan about what they could and coudnt do and when they couldnt connect the water supply they just left me with it saying I needed an adapter, they gave me the impression that all they wanted to do was get the hell out of there and left me with a washer in the middle of the floor. I had to get a plumber in to fit it and guess what, they were trying to connect it to the wrong part of the outlet. Doubt I will be going back to Sonic again
+Title: Not good enough
+- Excellent service on the purchase of a new integrated washing machine but the delivery guys let them down. They kept telling me that they couldn't do this or that they couldn't do that and then left me with a leaking conection for me to sort out. Got the feeling that all they wanted to do was get out of the place as quickly as possible, nothing positive to say about them, think a bit, no, a lot of retraining required, doubt I'll go back to Sonic again after this experience.
 
 [sentiment=NEGATIVE | stars=3]
-Title: Delivery due Friday
-- Problem ordering online - guy on the phone not too helpful - his advice - try again!Delivery due Friday. By agreement with APC it was promised for Saturday. Sunday evening no parcel.The tracking programme did not work at all.APC have let your company down badly.
+Title: No problem with the purchase experience…
+- No problem with the purchase experience but the delivery and instalation guys let them down.All they did was moan about what they could and coudnt do and when they couldnt connect the water supply they just left me with it saying I needed an adapter, they gave me the impression that all they wanted to do was get the hell out of there and left me with a washer in the middle of the floor. I had to get a plumber in to fit it and guess what, they were trying to connect it to the wrong part of the outlet. Doubt I will be going back to Sonic again
 
 [sentiment=NEGATIVE | stars=3]
 Title: Excellent customer service. Poor product choice
@@ -231,10 +235,6 @@ Title: Very disappointed!
 - Initial contact and telephone order process was great. Delivery of my freezer arranged for the next day. Two delivery men arrived at 8.40am, brought the chest freezer into my hall, then informed me they could not carry it downstairs into my cellar (health & safety!). I wasn't asked at the point of order where they would have to put the freezer; I also paid an additonal £25 for my old freezer to be taken away and recycled but they wouldn't carry it up the stairs. After they left, we realised the freezer was damaged and had obviously been dropped, damaging the corner next to the the motor! We were offered a replacement or money off but we had had enough and requested a full refund. Had to wait in again for them to collect it but at least we now have the refund. In the meantime, we ordered a freezer from Appliance Direct. Delivered and carried downstairs (with my husband's help) by a very helpful man, without a murmur! He also loaded our old freezer onto his van on his own! 
 
 [sentiment=NEGATIVE | stars=2]
-Title: Wouldn't recommend for after sales…
-- Wouldn't recommend for after sales service. No one bothers getting back to you if you need help. Don't be tempted by the "cheaper" prices. Save yourself the trouble and go to Currys instead.
-
-[sentiment=NEGATIVE | stars=2]
 Title: The delivery was a disappointment
 - The delivery was a disappointment, the delivery men didn’t take the washing machine were I asked for it to go and also whilst they moved my fridge they have scratched it, It is too much hassle now to go back as for a fridge without w scratch and wait for another fridge and the lazy delivery men.
 
@@ -243,20 +243,12 @@ Title: Dissatisfied
 - Guys came and just dropped the dishwasher off. Took the old one left water everywhere. Asked us to claim the installation costs back as they couldn’t fit the pipe through the cupboard of which after looking at it I managed to do within a couple of minutes with no experience fitting these things.A bit annoyed considering I paid for it to be fitted by people that know what they’re doing
 
 [sentiment=NEGATIVE | stars=2]
-Title: A lacklustre experience
-- A lacklustre experience, purchased 2 items at £800 in total approx. Many of the items I wanted were not in stock and there is limited high brand items but lots of cheap alternatives. I paid extra to get the fridge doors swapped to right handed opening but it wasn't explained that they don't actually put the handles on so bear that in mind. Delivery was an experience with the delivery drivers arriving late approx an hour after their commited time slot, then pulling the light off the ceiling, scratching the wall and damaging the door frame. They took my fridge away for recycling at a cost. I also contacted them to ask where the user guide was but no response. Wouldn't shop here again personally. 
-
-[sentiment=NEGATIVE | stars=2]
 Title: Nearly 2-week delivery. Unhelpful customer service.
 - The item delivered was defective. Instead of straight away sending a new working item, I had to wait 11 days. That is their next working day delivery promise. The customer service department also promised to call me back by a given time. You can only reach the sales department and are told customer service will call you by a given time. Customer service never actually called back by the promised time.I only give 2 stars instead of 1 as they indeed finally delivered the item.
 
 [sentiment=NEGATIVE | stars=2]
 Title: I paid £24.99 delivery and fitting and…
 - I paid £24.99 delivery and fitting and £19.99 recycle then had 2 pay another £5 on delivery 2 be fitted.as I told them when I ordered 4 my 92 year old bed ridden dad and that I'm also disabled 2 be then told another charge 2 unplumb and replumb
-
-[sentiment=NEGATIVE | stars=2]
-Title: It's leaking,  not resolved
-- It's leaking , just bought few days ago but it's leaking...no it's not resolved,they told me I have only 28 days policy, i called on 29th day,they give me manufacture company number. I am so disappointed 😞
 
 [sentiment=NEGATIVE | stars=2]
 Title: Over promised, under delivered
@@ -279,12 +271,8 @@ Title: The delivery guys took one look at my…
 - The delivery guys took one look at my American fridge freezer and said they couldn’t move it too big and awkward to get out but it came by in  so I assumed it would go out. Hence I could not accept my new one.Sales etc were very good and I got a refund minus £15 expenses. Was not a happy customer disappointed 
 
 [sentiment=NEGATIVE | stars=1]
-Title: Item not yet delivered
-- As of 0001 hrs Friday 20/12/2024, the item had not been delivered by Parcel Force. It appears that the parcel was not properly addressed. Though this has been 'rectified' by completion of Redirection, the parcel was NOT delivered by the promised time of 1800 hrs Thursday 19/12/2024.
-
-[sentiment=NEGATIVE | stars=1]
-Title: can't be trusted with departure times
-- can't be trusted with departure times 
+Title: Worst washing machine I've ever owned
+- Worst washing machine I've ever owned. It only has one job to do and I could do better in a bucket. 
 
 [sentiment=NEGATIVE | stars=1]
 Title: The TV bought the previous week had a…
@@ -295,16 +283,8 @@ Title: Unskilled installation people
 - Happy with purchase,but not happy with installation. I paid to have washing machine installed which fitters did but when they had gone I put the cupboard door on to find machine not level,rang fitters who said it wasn’t their problem they don’t level the machine but in the installation booklet fig7 clearly shows a machine with a spirit level on top of it. So I pulled out machine and levelled it myself put machine back hey presto door is fine. Moral being don’t pay for installation as you will end up doing it yourself,also TRAIN your installers 
 
 [sentiment=NEGATIVE | stars=1]
-Title: The service we received on delivery on the items
-- The service we received when buying the built in oven and hob was fine, but the delivery experience was awful. Was delivered as planned but they would bring the oven into the kitchen, all because they didn’t have time to remove the packaging for it to fit in! Even though it states on the receipt that the must do it to check it before leaving! The put it in the garage for a 76 year old man to bring into the kitchen!!!
-
-[sentiment=NEGATIVE | stars=1]
 Title: After a call from the driver to say…
 -  After a call from the driver to say they would be there in  20 minutes, he actually arrived 2 hours later.This would have been not as bad if it was at my own house, but I explained when ordering that the delivery address was different to the billing address.Not impressed also that they could not put the machine where it needed to be.
-
-[sentiment=NEGATIVE | stars=1]
-Title: Good prices but...
-- Good prices, but should definately have on the website they don't take the machines up stairs so I could have known before I ordered. Just moved from over seas, so I don't have friends or anyone to help me take it up my stairs so I just wasted money.Also the delivery people claim they don't have Insurance that's why they don't take it up stairs which should not be done as it's illegal as far as I know.Even my lanlord was shocked as other companies do this service.
 
 [sentiment=NEGATIVE | stars=1]
 Title: Went in to give a Faulty heater back
@@ -314,15 +294,23 @@ Title: Went in to give a Faulty heater back
 Title: Careful, they'll damage your floor and then claim it wasn't them
 - Not only did they deliver a fridge that was dented, they damaged the floor in my hallway when taking the fridge through to the kitchen. The delivery drivers took photos of the damage and assured me that if I got in contact then they would sort something out. However, after getting in contact with customer service I was told they they had interviewed the drivers and they claimed not to cause the damage. This was very disapointing as there were 4 people who witnessed them damaging our brand new floor, and they could't even accept responsibility.
 
-[sentiment=NEGATIVE | stars=1]
-Title: Worst customer service I’ve ever…
-- Worst customer service I’ve ever received. Driver was 3 hours later than agreed time. Made me feel intimidated and scared so made them leave my home. Made a complaint and didn’t even get so much as an apology in the reply. Almost called police to remove delivery driver from my homeUPDATE:Reply from sonic straight after a poor review saying they’ll look into this and as a total shock…. Nothing. Never dealt with such an incompetent company.
 
+===== TOPIC 1 | REVIEWS 27 =====
+[sentiment=POSITIVE | stars=5]
+Title: Really impressed
+- Really impressed, ordered on 27th Dec,wasn't expecting anything til new year, had call later that day to confirm details, item delivered the next day. The delivery guys, Sandeep & Zulfi were friendly and helpful, got the feeling that nothing would be too much trouble for them. Would I use again? Almost without hesitation, would I recommend? Definitely. Great service all round also really good prices 👍
 
-===== TOPIC 1 | REVIEWS 21 =====
 [sentiment=POSITIVE | stars=5]
 Title: Great price, fantastic delivery
 - We purchased a tumble drier over the Christmas period. Sonic Direct had the best price for the drier we wanted after accounting for delivery and extras (installation and removal of old drier). The drier was delivered very quickly and the delivery guys Kasam and Faisal were fantastic - communicated when they would arrive and were very friendly. They explained everything during the installation of the new drier and the whole process was extremely quick and pain free. Would definitely use Sonic Direct again.
+
+[sentiment=POSITIVE | stars=5]
+Title: Excellent delivery crew!!
+- Delivery guys Sangdeep & Zulfi did an outstanding job of getting new cooker through tiny hallway and into house.Very helpful & friendly![Cooker also cheaper than AO!]
+
+[sentiment=POSITIVE | stars=5]
+Title: A very good experience
+- From the moment I looked on the website at the extensive choice there I knew I would find what I was looking for - and I did.  Plenty of information about the products to help making a purchase and I was so pleased with the delivery date which was much quicker than I expected being over Christmas/New Year. The delivery men were extremely courteous and approachable and explained everything that I needed to know.  They put the appliance in position and took away all the packaging, leaving me with a lovely new fridge-freezer.  The delivery window was excellent and they were on time.  A very good experience.  The guys that delivered so well were Jas and Aasim.  Thank you.
 
 [sentiment=POSITIVE | stars=5]
 Title: Great product
@@ -345,8 +333,16 @@ Title: Sonic Direct review
 - Salesman (SQS) was very knowledgeable of products and very helpful.Sale was done efficiently and quickly, ands a delivery date for next day was agreed.Was delivered next day as promised all good
 
 [sentiment=POSITIVE | stars=5]
+Title: Kept in regular touch regarding…
+- Kept in regular touch regarding delivery and by whom. No damage to product through delivery process and it works as described.
+
+[sentiment=POSITIVE | stars=5]
 Title: Always helpful friendly and…
 - Always helpful friendly and knowledgeable staff. We are mostly served by Cash who goes above and beyond assistance. Wouldn’t go anywhere else than Sonic for our electrical needs 
+
+[sentiment=POSITIVE | stars=5]
+Title: Lovely guy who asked if i needed help…
+- Lovely guy who asked if i needed help as soon as we got in the store . Showed us a good range and made our purchase very easy even with my mobility issues delivery was cheap and fast .
 
 [sentiment=POSITIVE | stars=4]
 Title: Sonic were great
@@ -359,6 +355,10 @@ Title: Simple and effective
 [sentiment=POSITIVE | stars=4]
 Title: I bought 6 appliances from Sonic for my…
 - I bought 6 appliances from Sonic for my new kitchen. I was helped by Riz who is absolutely fantastic with regards to helping to find the right product for you and providing a really positive customer experience. Riz made sure I was getting the best deals and was buying quality products. He explained the guarantees and sent links to register, nothing was too much trouble. I would have given 5 stars but the washer had a broken foot so was taken back by the delivery Team. On ringing Riz he sorted out the newer model for me and it was ready to collect the next day for us. Sonic sell at lower prices if you go in store and I was really happy with the service, price, range and quality ! Thanks Riz for all your help!
+
+[sentiment=NEGATIVE | stars=4]
+Title: 50" TV
+- Very happy with the TV I have recently purchased. A member of staff was so helpful in explaining which TV would suit my needs as they all looked the same to me and I would probably have picked a much more expensive one. I would recommend this store if you want a good quality TV at a great price.
 
 [sentiment=NEGATIVE | stars=4]
 Title: 1st time I used Sonic Direct
@@ -384,10 +384,6 @@ Title: Staff did not seem concerned at all
 Title: Neutral
 - I can not express enough how disappointed this time i am with Sonic Direct. I purchased a bundle of things from them and one broke within a year. Since it was beyond repair ive picked up cheaper appliance and was meant to receive refund covering the remaining amount (300 pounds). Refund has not been proceed in timely manner .. still waiting for it. No apologies, nothing and just being told to wait patiently.Update .. after many conversations i have my refund so neutral opinion.
 
-[sentiment=NEGATIVE | stars=3]
-Title: 🤔Funny how the price on my Sony65”Oled…
-- 🤔Funny how the price on my Sony65”Oled tv I purchased last week was not negotiable at£2100, but this week reduced to £2000?🤔
-
 [sentiment=NEGATIVE | stars=2]
 Title: only 8 months warranty against 2 years committed.
 - Bought the Samsung Microwave in a deal and the link said that the product carries two years Warranty (through registration). The package arrived torn from one side and the microwave have a bump on that side. The product worked fine though that's why didn't bother returning it. But later the problem escalated when i registered the product on Samsung. After registration the warranty said "Manufacturer Warranty : valid until 31-05-2024". That means I am left with only "8 MONTHS OF WARRANTY". I contacted Samsung and they said that this product is not eligible for two years of warranty.I would avoid buying products on deal from Sonic because I am sure they sent me a returned or display product. I truly wish that I would have spent the return charges and returned the product when i saw the bump on the side and torn packaging.
@@ -396,11 +392,15 @@ Title: only 8 months warranty against 2 years committed.
 Title: Bad TV bad company
 - This TV is useless as it doesn't work properly in the UK sonic have no interest in accepting returns. Shouldn't be allowed to mis sell like this.
 
-[sentiment=POSITIVE | stars=1]
-Title: not good service
-- i so lg washing Machin and sonic website said they will match or beat any price but when i called i said Lg selling it cheaper they replay go and get it from Lg .  Replay to your reply I did ask for manager he said he is manager   i did say I will leave feedback he said that is fine?
-
 [sentiment=NEGATIVE | stars=1]
 Title: The assistant you need from shop floor…
 - The assistant you need from shop floor sales people is appalling not great ful what's so ever. Once you buy something from sonic direct just as you make a payment for a item you purchased after that they don't want to know you.Sorry sonic direct sort your staff out 
+
+[sentiment=NEGATIVE | stars=1]
+Title: Not impressed ordered a new ceramic hob…
+- Not impressed ordered a new ceramic hob for delivery on Friday the 13th September heard nothing so made a phone call to be told I would not be getting it until Monday 16th Sept . Very poor communication from the store. And I was recommended to use the store from Which magazine i will let them know the are not reliable and I have had to cancel the electrician because of their failure.I await their delivery on Mon 
+
+[sentiment=NEGATIVE | stars=1]
+Title: The service we received on delivery on the items
+- The service we received when buying the built in oven and hob was fine, but the delivery experience was awful. Was delivered as planned but they would bring the oven into the kitchen, all because they didn’t have time to remove the packaging for it to fit in! Even though it states on the receipt that the must do it to check it before leaving! The put it in the garage for a 76 year old man to bring into the kitchen!!!
 
